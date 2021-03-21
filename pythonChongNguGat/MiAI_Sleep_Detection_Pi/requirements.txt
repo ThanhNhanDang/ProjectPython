@@ -1,0 +1,8 @@
+imutils
+argparse
+numpy
+playsound
+cmake
+scipy
+dlib
+opencv-python-headless
